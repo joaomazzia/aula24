@@ -1,0 +1,14 @@
+<?php
+
+// Definir o timezone para o horário de dubai
+date_default_timezone_set('Asia/Dubai');
+echo date('d/m/Y H:i');
+
+
+
+// Definir o timezone para o horário do brasil
+date_default_timezone_set('America/Sao_Paulo');
+echo date('d/m/Y H:i');
+
+
+?>
