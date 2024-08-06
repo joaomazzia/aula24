@@ -1,0 +1,8 @@
+<?php
+
+$frutas = array("maçã", "banana", "laranja", "uva", "manga", "abacaxi", "pêssego",
+"kiwi", "morango", "melancia");
+echo ($frutas[5] . "\n" );
+echo $frutas[9];
+?>
+
