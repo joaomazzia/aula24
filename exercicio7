@@ -1,0 +1,10 @@
+<?php
+
+$pessoa=[
+	'nome' => 'fuleco',
+	'email' => 'fuleco@gmail.com',
+	'idade' => '16',
+	 'city' => 'cp'
+	];
+	print_r($pessoa);
+?>
