@@ -1,0 +1,6 @@
+<?php
+
+$comida= array ('geleia','batata','pizza');
+print_r($comida);
+
+?>
